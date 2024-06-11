@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0817d2fa-3423-4fe6-a395-dd99103f957c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lab4/prob4E/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab4/prob4E/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab4/prob4E/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Solution/Lab5-prob3-solution/src/control/DestinationScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Solution/Lab5-prob3-solution/src/control/ScreenInfo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hhQeRZ4ATLluXeUkrlTDZVzzZL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EmployeeInfo.executor": "Run",
+    "Application.lesson7.labs.prob1.partC.EmployeeInfo.executor": "Run",
+    "Application.lesson7.labs.prob1.partD.EmployeeInfo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/DuyN/Documents/DuyN/MIU/Miu-Assignment/Miu-Labs/Courses/MPP/Assignments/Assignment-7/prob1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.lesson7.labs.prob1.partD.EmployeeInfo">
+    <configuration name="EmployeeInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.labs.prob1.partB.EmployeeInfo" />
+      <module name="prob1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.labs.prob1.partB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson7.labs.prob1.partC.EmployeeInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.labs.prob1.partC.EmployeeInfo" />
+      <module name="prob1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.labs.prob1.partC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson7.labs.prob1.partD.EmployeeInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.labs.prob1.partD.EmployeeInfo" />
+      <module name="prob1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.labs.prob1.partD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lesson7.labs.prob1.partD.EmployeeInfo" />
+        <item itemvalue="Application.lesson7.labs.prob1.partC.EmployeeInfo" />
+        <item itemvalue="Application.EmployeeInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0817d2fa-3423-4fe6-a395-dd99103f957c" name="Changes" comment="" />
+      <created>1718043923943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718043923943</updated>
+      <workItem from="1718043925044" duration="5116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/partB/EmployeeInfo.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/partB/EmployeeInfo.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1-1/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+          <line>300</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1-1/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+          <line>304</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1-1/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+          <line>294</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1-1/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+          <line>298</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1-1/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+          <line>292</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.1-1/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+          <line>299</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/partB/EmployeeInfo.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="es[i]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
