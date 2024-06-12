@@ -1,9 +1,13 @@
 package prob6;
 
+import java.util.Collections;
 import java.util.Comparator;
+import java.util.List;
 import java.util.function.BiConsumer;
 import java.util.function.BiFunction;
 import java.util.function.Function;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Examples {
 
@@ -57,7 +61,13 @@ public class Examples {
     }
 
     public static void main(String[] args) {
-        Examples e = new Examples();
-        e.evaluator();
+//        Examples e = new Examples();
+//        e.evaluator();
+
+        Stream.iterate(1, n -> n + 2)
+                .skip(4)
+                .limit(4)
+                .collect(Collectors.toList())
+                .forEach(i -> System.out.println(i));
     }
 }
