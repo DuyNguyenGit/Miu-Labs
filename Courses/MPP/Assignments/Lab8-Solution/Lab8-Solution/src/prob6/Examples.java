@@ -1,5 +1,6 @@
 package prob6;
 
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
@@ -61,13 +62,12 @@ public class Examples {
     }
 
     public static void main(String[] args) {
-//        Examples e = new Examples();
-//        e.evaluator();
-
-        Stream.iterate(1, n -> n + 2)
-                .skip(4)
-                .limit(4)
-                .collect(Collectors.toList())
-                .forEach(i -> System.out.println(i));
+        Examples e = new Examples();
+        e.evaluator();
+//        Stream.iterate(1, n -> n + 2)
+//                .skip(5)
+//                .limit(4)
+//                .collect(Collectors.toList())
+//                .forEach(i -> System.out.println(i));
     }
 }
